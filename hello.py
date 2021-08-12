@@ -16,6 +16,6 @@ def mul(x_0, y_0):
     return x_0 * y_0
 
 
-ResultM = mul(4, 5)
+NEW = mul(4, 5)
 
-print(f"Multiplication 4 x 5 = {ResultM}")
+print(f"Multiplication 4 x 5 = {NEW}")
